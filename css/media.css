@@ -1,5 +1,4 @@
 @media(min-width:1200px) and (max-width:1399px){
-
     .h5,h5{
         font-size: 16px;
     }
@@ -29,6 +28,7 @@
 }
 
 @media(min-width:992px) and (max-width:1199.98px){
+
     /*=====banner part start here=======*/
     .h5,h5{
         font-size: 16px;
@@ -86,6 +86,10 @@
 
 
 @media(min-width:768px) and (max-width:991.99px){
+    .navbar-collapse {
+        background-color: #13bfb1;
+    }
+
 
     /*=====banner part start here=======*/
     .banner-content {
@@ -238,6 +242,9 @@
 }
 
 @media(min-width:576px) and (max-width:767.98px){
+    .navbar-collapse {
+        background-color: #13bfb1;
+    }
       /*=====banner part start here=======*/
     .banner-content {
         padding-top: 88px;
@@ -406,7 +413,9 @@
 
 @media(max-width:575.98px){
 
-
+    #home-page .navbar-collapse {
+        background-color: #13bfb1;
+    }
     .navbar-brand {
         padding-top: 0;
         padding-bottom: 0;
@@ -638,6 +647,7 @@
         margin-bottom: 10px;
     }
     /*=======gallery page ends here========*/
+
 
 
 }
