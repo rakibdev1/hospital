@@ -1,0 +1,643 @@
+@media(min-width:1200px) and (max-width:1399px){
+
+    .h5,h5{
+        font-size: 16px;
+    }
+    .banner-content {
+        padding-top: 124px;
+    }
+    .banner-content h4 {
+        font-size: 22px;
+    }
+    .banner-content h4::before {   
+        height: 60px;
+        width: 3px;
+        top: -60px;
+    }
+    .banner-content h1 {
+        padding: 0 315px;
+        font-size: 55px;
+    }
+    .banner-content h1::after {
+        height: 60px;    
+        top: 125px;
+    }
+    .banner-side-coloumn {
+        padding-top: 0;
+        visibility: hidden;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199.98px){
+    /*=====banner part start here=======*/
+    .h5,h5{
+        font-size: 16px;
+    }
+    .banner-content {
+        padding-top: 124px;
+    }
+    .banner-content h4 {
+        font-size: 22px;
+    }
+    .banner-content h4::before {   
+        height: 60px;
+        width: 3px;
+        top: -60px;
+    }
+    .banner-content h1 {
+        padding: 0 315px;
+        font-size: 42px;
+    }
+    .banner-content h1::after {
+        height: 60px;    
+        top: 100px;
+    }
+    .banner-side-coloumn {
+        padding-top: 0;
+        visibility: hidden;
+    }
+    /*=====banner part ends here=======*/
+
+    /*=====our doctors section starts here=======*/
+    .lost{
+        display: none;
+    }
+    /*=====our doctors section ends here=======*/
+    /*=====patient testimonial section ends here=======*/    
+    .testimonial-patient-information {
+	    padding-top: 4px;
+    }
+     /*=====patient testimonial section starts here=======*/  
+    /*=====blog page section starts here=======*/
+    #blog-page .blog-side-content{
+        padding-top: 30px;
+    }
+    /*=====blog page section ends here=======*/
+    /*=====service page starts here==========*/
+
+    #service-page .service-hov {
+        left: -20px;
+    }
+    #service-page .service-content{
+        padding: 0 0 0 15px ;
+    }
+    /*=====service page ends here==========*/
+}
+
+
+@media(min-width:768px) and (max-width:991.99px){
+
+    /*=====banner part start here=======*/
+    .banner-content {
+        padding-top: 125px;
+    }
+    .banner-content h4 {
+        font-size: 24px;
+    }
+    .banner-content h4::before {
+    
+        height: 45px;
+        width: 3px;
+        top: -50px;
+    }
+    .banner-content h1 {
+        padding: 0;
+        font-size: 25px;
+    }
+    .banner-content h1::after {
+        height: 45px;    
+        top: 30px;
+    }
+    .banner-side-coloumn {
+        padding-top: 0;
+        visibility: hidden;
+    }
+    .appointment a{
+        display: none;
+    }
+        /*=====banner part ends here=======*/
+      /*=====our service section starts here=======*/
+      #service {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+
+    .our-services-main h2 {
+        font-size: 50px;
+    }
+    .our-services-inner h3 {
+        top: 14px;
+    }
+    .service-count-content{
+        padding: 0;
+    }
+    .service-count-number{
+        text-align: center;
+    }
+    .service-count-number h2 {
+        padding-bottom: 0;
+    }
+    .service-inner-count-content p {
+        padding-right: 0;
+        text-align: center;
+    }
+    /*=====our service section ends here=======*/
+    /*=====our department section starts hhere=======*/
+    #department {
+        padding-top: 20px;
+        padding-bottom: 18px;
+    }
+    .department-main-content h2 {
+        font-size: 50px;
+    }
+    .our-department-inner h3 {
+        top: 17px;
+        font-size: 20px;
+    }
+    /*=====our department section ends here=======*/
+
+    /*=====our doctors section starts here=======*/
+    #doctors {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+    .our-doctor-main-content h2 {
+        font-size: 50px;
+    }
+    .our-doctor-inner h3 {
+        top: 12px;
+    }
+    .lost{
+        display: none;
+    }
+
+    /*=====our doctors section ends here=======*/  
+   /*=====emergency section starts here=======*/
+         #emergency {
+            padding-top: 20px;
+        }
+        .our-emergency-main-content h2 {
+            font-size: 50px;
+        }
+        .our-emergency-inner h3 {
+            top: 12px;
+        }
+        .emergency-content p {
+            padding-bottom: 20px;
+        }
+        .emergency-content a {
+            padding: 10px 25px;
+        }
+        /*=====emergency section ends here=======*/ 
+    /*=====patient testimonial section starts here=======*/
+    #testimonial {
+        padding-top: 25px;
+    }
+    .our-testimonial-main-content h2 {
+            font-size: 50px;
+    }
+    .our-testimonial-inner h3 {
+            top: 12px;
+    }
+    /*=====patient testimonial section ends here=======*/
+    /*=====blog section start here=======*/
+    #blog {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .our-blog-main-content h2 {
+        font-size: 50px;
+    }
+    .our-blog-inner h3 {
+        top: 14px;
+    }
+    .blog-inner-main{
+        padding-bottom: 30px;
+    }
+    /*=====blog section ends here=======*/   
+    /*=====blog page section starts here=======*/
+    #blog-page .blog-side-content{
+        padding-top: 30px;
+    }
+    /*=====blog page section ends here=======*/
+    /*=====service page starts here==========*/
+
+    #service-page .service-hov {
+        left: 0;
+    }
+    #service-page .hexagon{
+        margin: 0 auto;
+    }
+    #service-page .service-content{
+        text-align: center;
+        padding: 40px 0;
+    }
+    /*=====service page ends here==========*/
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+      /*=====banner part start here=======*/
+    .banner-content {
+        padding-top: 88px;
+    }
+    .banner-content h4 {
+        font-size: 16px;
+    }
+    .banner-content h4::before {
+
+        height: 45px;
+        width: 3px;
+        top: -50px;
+    }
+    .banner-content h1 {
+        padding: 0;
+        font-size: 20px;
+    }
+    .banner-content h1::after {
+        height: 55px;    
+        top: 27px;
+    }
+    .banner-side-coloumn {
+        padding-top: 0;
+        visibility: hidden;
+    }
+    .appointment a{
+        display: none;
+    }
+      /*=====banner part ends here=======*/
+    /*=====our service section starts here=======*/
+    #service {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+
+    .our-services-main h2 {
+        font-size: 40px;
+    }
+    .our-services-inner h3 {
+        top: 8px;
+    }
+    .service-count-content{
+        padding: 0;
+    }
+    .service-count-number{
+        text-align: center;
+    }
+    .service-count-number h2 {
+        padding-bottom: 0;
+    }
+    .service-inner-count-content p {
+        padding-right: 0;
+        text-align: center;
+    }
+    /*=====our service section ends here=======*/
+     /*=====our department section starts hhere=======*/
+     #department {
+        padding-top: 20px;
+        padding-bottom: 18px;
+    }
+    .department-main-content h2 {
+        font-size: 40px;
+    }
+    .our-department-inner h3 {
+        top: 11px;
+        font-size: 20px;
+    }
+    /*=====our department section ends here=======*/
+     /*=====our doctors section starts here=======*/
+     #doctors {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+    .our-doctor-main-content h2 {
+        font-size: 40px;
+    }
+    .our-doctor-inner h3 {
+        top: 8px;
+    }
+    .lost{
+        display: none;
+    }
+
+    /*=====our doctors section ends here=======*/
+     /*=====emergency section starts here=======*/
+     #emergency {
+        padding-top: 20px;
+    }
+    .our-emergency-main-content h2 {
+        font-size: 40px;
+    }
+    .our-emergency-inner h3 {
+        top: 8px;
+    }
+    .emergency-content p {
+        padding-bottom: 20px;
+    }
+    .emergency-content a {
+        padding: 10px 25px;
+    }
+    /*=====emergency section ends here=======*/
+    /*=====patient testimonial section starts here=======*/
+    #testimonial {
+        padding-top: 25px;
+    }
+    .our-testimonial-main-content h2 {
+            font-size: 40px;
+    }
+    .our-testimonial-inner h3 {
+            top: 8px;
+    }
+    .testimonial-patient-information {
+        padding-top: 12px;
+    }
+    /*=====patient testimonial section ends here=======*/
+    /*=====blog section start here=======*/
+    #blog {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .our-blog-main-content h2 {
+        font-size: 40px;
+    }
+    .our-blog-inner h3 {
+        top: 8px;
+    }
+    .blog-inner-main{
+        padding-bottom: 30px;
+    }
+    /*=====blog section ends here=======*/
+    /*=====visitors section starts here============*/
+    #visitors {
+        padding-top: 25px;
+    }
+    .our-visitors-main-content h2 {
+        font-size: 40px;
+    }
+    .our-visitors-inner h3 {
+        top: 10px;
+    }
+    /*=====visitors section ends here============*/
+
+    /*=====blog page section starts here=======*/
+    #blog-page .blog-side-content{
+        padding-top: 30px;
+    }
+    /*=====blog page section ends here=======*/
+       /*=====service page starts here==========*/
+    
+       #service-page .service-hov {
+        left: 0;
+    }
+    #service-page .hexagon{
+        margin: 0 auto;
+    }
+    #service-page .service-content{
+        text-align: center;
+        padding: 40px 0;
+    }
+    /*=====service page ends here==========*/
+
+}
+
+
+@media(max-width:575.98px){
+
+
+    .navbar-brand {
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-right: 1rem;
+        font-size: 16px;
+    }
+    .navbar-toggler-icon {
+        width: 16px;
+        height: 16px;
+    }
+    .navbar-toggler {
+        padding: 2px 5px;
+        font-size: 1.25rem;
+        line-height: 0;
+    }
+
+    /*=====banner part start here=======*/
+    .banner-content {
+        padding-top: 55px;
+    }
+    .banner-content h4 {
+        font-size: 16px;
+    }
+    .banner-content h4::before {
+        display: none;
+    }
+    .banner-content h1 {
+        padding: 0;
+        font-size: 20px;
+    }
+    .banner-content h1::after {
+        display: none;
+    }
+    .banner-side-coloumn {
+        padding-top: 0;
+        visibility: hidden;
+    }
+    .appointment a{
+        display: none;
+    }
+    /*=====banner part ends here=======*/
+    /*=====our service section starts here=======*/
+    #service {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+
+    .our-services-main h2 {
+        font-size: 32px;
+    }
+    .our-services-inner h3 {
+        top: 5px;
+    }
+    .service-count-content{
+        padding: 0;
+    }
+    .service-count-number{
+        text-align: center;
+    }
+    .service-count-number h2 {
+        padding-bottom: 0;
+    }
+    .service-inner-count-content p {
+        padding-right: 0;
+        text-align: justify;
+    }
+
+    /*=====our service section ends here=======*/
+    /*=====our department section starts hhere=======*/
+    #department {
+        padding-top: 20px;
+        padding-bottom: 18px;
+    }
+    .department-main-content h2 {
+        font-size: 30px;
+    }
+    .our-department-inner h3 {
+        top: 4px;
+        font-size: 20px;
+    }
+    /*=====our department section ends here=======*/
+    /*=====our doctors section starts here=======*/
+    #doctors {
+        padding-top: 20px;
+        padding-bottom: 18px;
+
+    }
+    .our-doctor-main-content h2 {
+        font-size: 32px;
+    }
+    .our-doctor-inner h3 {
+        top: 5px;
+    }
+    .lost{
+        display: none;
+    }
+
+
+    /*=====our doctors section ends here=======*/
+    /*=====emergency section starts here=======*/
+    #emergency {
+        padding-top: 20px;
+    }
+    .our-emergency-main-content h2 {
+        font-size: 35px;
+    }
+    .our-emergency-inner h3 {
+        top: 6px;
+    }
+    .emergency-content p {
+        padding-bottom: 20px;
+    }
+    .emergency-content a {
+        padding: 10px 25px;
+    }
+    /*=====emergency section ends here=======*/
+    /*=====patient testimonial section starts here=======*/
+    #testimonial {
+        padding-top: 25px;
+    }
+    .our-testimonial-main-content h2 {
+        font-size: 26px;
+    }
+    .our-testimonial-inner h3 {
+        top: 5px;
+        font-size: 17px;
+    }
+    .testimonial-patient-information {
+        padding-top: 0;
+    }
+    .testimonial-patient-information h4{
+        font-size: 16px;
+        margin-bottom: 0;
+
+    }
+    /*=====patient testimonial section ends here=======*/
+    /*=====blog section start here=======*/
+    #blog {
+        padding-top: 25px;
+        padding-bottom: 15px;
+    }
+    .our-blog-main-content h2 {
+        font-size: 32px;
+    }
+    .our-blog-inner h3 {
+        top: 5px;
+    }
+    .blog-inner-main{
+        padding-bottom: 30px;
+    }
+
+
+    /*=====blog section ends here=======*/
+    /*=====consult section starts here=======*/
+    #consult {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+    .consult-content h3 {
+        font-size: 24px;
+    }
+    /*=====consult section ends here=======*/
+    /*=====visitors section starts here=======*/
+    #visitors {
+        padding-top: 25px;
+    }
+    .our-visitors-main-content h2 {
+        font-size: 32px;
+    }
+    .our-visitors-inner h3 {
+        top: 5px;
+        font-size: 20px;
+    }
+    .opening-main{
+        padding: 0!important;
+    }
+    .opennig-inner-content {
+        padding: 0!important;
+    }
+    .opennig-inner-content h5{
+        font-size: 16px;
+        padding-bottom: 0;
+    }
+    .opennig-inner-side-content h5{
+        font-size: 14px;
+        padding-top: 4px;
+    }
+    #footer {
+        padding-top: 25px;
+    }
+    /*=====visitors section ends here=======*/
+    /*=====blog page section starts here=======*/
+    #blog-page .middle-comment {
+        padding-left:0;
+    }
+    #blog-page .blog-side-content{
+        padding-top: 30px;
+    }
+    #blog-page .thumb {
+        padding-right: 0;
+        padding-left: 35px;
+    }
+    #blog-page .clock {
+        padding-left: 25px;
+    }
+    #blog-page .blog-btn{
+        line-height: 45px;
+    }
+    /*=====blog page section ends here=======*/
+
+
+
+    /*=====service page starts here==========*/
+    
+    #service-page .service-hov {
+        left: 0;
+    }
+    #service-page .hexagon{
+        margin: 0 auto;
+    }
+    #service-page .service-content{
+        text-align: center;
+        padding: 40px 0;
+    }
+    /*=====service page ends here==========*/
+    /*=======gallery page starts here========*/
+    #gallery-page .gallery-mix ul li {
+        margin-bottom: 10px;
+    }
+    /*=======gallery page ends here========*/
+
+
+}
